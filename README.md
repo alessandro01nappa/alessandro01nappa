@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ciao, sono Alessandro
 
-<!--
-**alessandro01nappa/alessandro01nappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Costruisco e vendo software B2B. Vengo dalla vendita consulenziale - credito prima, sistemi di pagamento poi - e ho imparato a programmare perche volevo essere padrone dei prodotti che proponevo ai clienti.
 
-Here are some ideas to get you started:
+**Oggi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Progetto e sviluppo software gestionale e sistemi AI per clienti B2B
+- Co-fondatore di una piattaforma SaaS per la ristorazione, in produzione presso clienti paganti (Vue 3, Go, PostgreSQL)
+- Lavoro su sistemi RAG e architetture agentiche in domini regolamentati
+
+**Stack**
+
+`Go` `Vue 3` `React` `TypeScript` `Java / Spring Boot` `Python / FastAPI` `PostgreSQL` `Docker` `Qdrant` `LangGraph`
+
+**Mi interessa**
+
+Il punto in cui un'esigenza di business diventa un'architettura - e l'architettura diventa qualcosa che il cliente capisce senza bisogno di un interprete.
+
+Milano | [LinkedIn](https://linkedin.com/in/alessandronappa)
