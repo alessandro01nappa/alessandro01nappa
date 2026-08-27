@@ -1,19 +1,23 @@
 # Ciao, sono Alessandro
 
-Costruisco e vendo software B2B. Vengo dalla vendita consulenziale - credito prima, sistemi di pagamento poi - e ho imparato a programmare perche volevo essere padrone dei prodotti che proponevo ai clienti.
+Non sto fermo, e mi girano meglio le giornate quando costruisco qualcosa che qualcuno usera davvero.
+
+Vengo dalla vendita e ho imparato a programmare perche ero stanco di chiedere a qualcun altro se una cosa si poteva fare.
 
 **Oggi**
 
-- Progetto e sviluppo software gestionale e sistemi AI per clienti B2B
-- Co-fondatore di una piattaforma SaaS per la ristorazione, in produzione presso clienti paganti (Vue 3, Go, PostgreSQL)
-- Lavoro su sistemi RAG e architetture agentiche in domini regolamentati
+- Piattaforme SaaS gestionali
+- Sistemi RAG e architetture agentiche
+- Sviluppo su commessa per clienti B2B, dai requisiti al rilascio
 
-**Stack**
+**Faccio dei nomi se dovesse servire:**
 
-`Go` `Vue 3` `React` `TypeScript` `Java / Spring Boot` `Python / FastAPI` `PostgreSQL` `Docker` `Qdrant` `LangGraph`
+AI/RAG -> `LangGraph` `Qdrant` `OpenSearch` `Agentic Workflows` `Prompt Engineering`
+Backend -> `Python / FastAPI` `Java / Spring Boot` `PostgreSQL`
+Frontend -> `React` `TypeScript`
 
 **Mi interessa**
 
-Il punto in cui un'esigenza di business diventa un'architettura - e l'architettura diventa qualcosa che il cliente capisce senza bisogno di un interprete.
+Il punto in cui un'esigenza diventa architettura, e l'architettura diventa qualcosa che il cliente capisce da solo.
 
 Milano | [LinkedIn](https://linkedin.com/in/alessandronappa)
